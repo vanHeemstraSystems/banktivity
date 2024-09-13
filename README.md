@@ -1,6 +1,10 @@
 banktivity
 # Banktivity
 
+> Proactive money management app for macOS/iOS
+> Financially empowered
+> Privacy protected
+
 Based on "Banktivity" at https://www.banktivity.com/
 
 ## 100 - Introduction
