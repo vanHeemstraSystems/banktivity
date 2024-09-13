@@ -2,9 +2,9 @@
 
 # المصرفية
 
-> Proactive money management app for macOS/iOS
-> Financially empowered
-> Privacy protected
+> تطبيق استباقي لإدارة الأموال لنظام التشغيل macOS/iOS
+> متمكن ماليا
+> الخصوصية محمية
 
 بناء على "Banktivity" في<https://www.banktivity.com/>
 
