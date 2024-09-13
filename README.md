@@ -7,6 +7,8 @@ banktivity
 
 Based on "Banktivity" at https://www.banktivity.com/
 
+Based on "Banktivity Cloud Sync" at https://www.banktivity.com/cloud-sync/
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
