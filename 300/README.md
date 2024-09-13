@@ -1,25 +1,25 @@
 # 300 - Building Our Application
 
-## 100 - Banktivity MasterClass Session 1: General Terms
+## 100 - Banktivity Master Class Session 1: General Terms
 
-See "Banktivity MasterClass Session 1" at https://www.youtube.com/watch?v=4ihl4roYbwo
+See "Banktivity Master Class Session 1" at https://www.youtube.com/watch?v=4ihl4roYbwo
 
-## 200 - Banktivity MasterClass Session 2: Accounts and Transactions
+## 200 - Banktivity Master Class Session 2: Accounts and Transactions
 
-See "Banktivity MasterClass Session 2" at https://www.youtube.com/watch?v=B80W8Ilk3tY
+See "Banktivity Master Class Session 2" at https://www.youtube.com/watch?v=B80W8Ilk3tY
 
-## 300 - Banktivity MasterClass Session 3: Importing and Payees
+## 300 - Banktivity Master Class Session 3: Importing and Payees
 
-See "Banktivity MasterClass Session 3" at https://www.youtube.com/watch?v=smng-IKmn6M
+See "Banktivity Master Class Session 3" at https://www.youtube.com/watch?v=smng-IKmn6M
 
-## 400 - Banktivity MasterClass Session 4: Scheduled Transactions and Reconciling
+## 400 - Banktivity Master Class Session 4: Scheduled Transactions and Reconciling
 
-See "Banktivity MasterClass Session 4" at https://www.youtube.com/watch?v=ILn7SKbq0jg
+See "Banktivity Master Class Session 4" at https://www.youtube.com/watch?v=ILn7SKbq0jg
 
-## 500 - Banktivity MasterClass Session 5: Investments
+## 500 - Banktivity Master Class Session 5: Investments
 
-See "Banktivity MasterClass Session 5" at https://www.youtube.com/watch?v=9aUyaU2iUjM
+See "Banktivity Master Class Session 5" at https://www.youtube.com/watch?v=9aUyaU2iUjM
 
-## 600 - Banktivity MasterClass Session 6: Budgeting
+## 600 - Banktivity Master Class Session 6: Budgeting
 
-See "Banktivity MasterClass Session 6" at https://www.youtube.com/watch?v=I3WdItzV9vk
+See "Banktivity Master Class Session 6" at https://www.youtube.com/watch?v=I3WdItzV9vk
