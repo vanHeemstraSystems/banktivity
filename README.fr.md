@@ -2,13 +2,13 @@ banktivité
 
 # Banktivity (anciennement iBank)
 
-> Application de gestion financière proactive pour macOS/iOS
+> Application de gestion proactive de l'argent pour macOS/iOS
 > Autonomisé financièrement
 > Confidentialité protégée
 
-Basé sur "Banktivity" à<https://www.banktivity.com/>
+Based on "Banktivity" at <https://www.banktivity.com/>
 
-Basé sur « Banktivity Cloud Sync » sur<https://www.banktivity.com/cloud-sync/>
+Basé sur "Banktivity Cloud Sync" sur<https://www.banktivity.com/cloud-sync/>
 
 Basé sur "Banktivity sur YouTube" sur<https://www.youtube.com/user/iggsoftware/videos>
 
@@ -26,4 +26,4 @@ Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
-Voir[README.md](./400/README.md)
+See [README.md](./400/README.md)
