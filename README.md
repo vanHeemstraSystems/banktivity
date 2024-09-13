@@ -1,9 +1,9 @@
 banktivity
 # Banktivity (former iBank)
 
-> Proactive money management app for macOS/iOS
-> Financially empowered
-> Privacy protected
+> Proactive money management app for macOS/iOS<br/>
+> Financially empowered<br/>
+> Privacy protected<br/>
 
 Based on "Banktivity" at https://www.banktivity.com/
 
