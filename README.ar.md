@@ -1,6 +1,6 @@
 المصرفية
 
-# المصرفية
+# Banktivity (iBank سابقًا)
 
 > تطبيق استباقي لإدارة الأموال لنظام التشغيل macOS/iOS
 > متمكن ماليا
@@ -9,6 +9,8 @@
 بناء على "Banktivity" في<https://www.banktivity.com/>
 
 بناءً على "Banktivity Cloud Sync" في<https://www.banktivity.com/cloud-sync/>
+
+Based on "Banktivity on YouTube" at <https://www.youtube.com/user/iggsoftware/videos>
 
 ## 100- مقدمة
 
