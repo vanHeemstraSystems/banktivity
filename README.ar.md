@@ -2,6 +2,10 @@
 
 # المصرفية
 
+> Proactive money management app for macOS/iOS
+> Financially empowered
+> Privacy protected
+
 بناء على "Banktivity" في<https://www.banktivity.com/>
 
 ## 100- مقدمة
