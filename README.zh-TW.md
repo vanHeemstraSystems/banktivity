@@ -2,9 +2,9 @@
 
 # 銀行活力（前 iBank）
 
-> 適用於 macOS/iOS 的主動資金管理應用程式
-> 財務賦權
-> 隱私保護
+> Proactive money management app for macOS/iOS
+> Financially empowered
+> Privacy protected
 
 基於“銀行活動”<https://www.banktivity.com/>
 
