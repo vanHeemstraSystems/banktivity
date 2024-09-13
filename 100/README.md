@@ -21,6 +21,8 @@ What Banktivity calls "Direct Access", in the background is Yodlee. Works like a
 Source: https://together.bunq.com/d/7379-yodlee-connectivity
 ___
 
+Royal Bank of Scotland (RBS) is supported by Yodlee:
 
+![image](https://github.com/user-attachments/assets/c44ee9aa-ffdf-4355-8fff-2a01bf7fff47)
 
 Source: https://cdn2.hubspot.net/hubfs/344772/Yodlee-integrations.pdf?t=1464354764247
