@@ -12,7 +12,7 @@
 
 "यूट्यूब पर बैंकटिविटी" पर आधारित<https://www.youtube.com/user/iggsoftware/videos>
 
-## 100 - परिचय
+## 100 - Introduction
 
 देखना[README.md](./100/README.md)
 
