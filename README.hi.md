@@ -2,7 +2,8 @@
 
 # बैंकटिविटी (पूर्व आईबैंक)
 
-> MacOS/iOS के लिए प्रोएक्टिव मनी मैनेजमेंट ऐप<br/>आर्थिक रूप से सशक्त<br/>गोपनीयता सुरक्षित<br/>
+> MacOS/iOS के लिए प्रोएक्टिव मनी मैनेजमेंट ऐप<br/>आर्थिक रूप से सशक्त<br/>
+> Privacy protected<br/>
 
 पर "बैंकटिविटी" पर आधारित<https://www.banktivity.com/>
 
@@ -18,10 +19,10 @@
 
 देखना[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - हमारे एप्लिकेशन का निर्माण
 
 देखना[README.md](./300/README.md)
 
-## 400 - निष्कर्ष
+## 400 - Conclusion
 
 देखना[README.md](./400/README.md)
