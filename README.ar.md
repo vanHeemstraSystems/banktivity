@@ -8,6 +8,8 @@
 
 بناء على "Banktivity" في<https://www.banktivity.com/>
 
+بناءً على "Banktivity Cloud Sync" في<https://www.banktivity.com/cloud-sync/>
+
 ## 100- مقدمة
 
 يرى[README.md](./100/README.md)
