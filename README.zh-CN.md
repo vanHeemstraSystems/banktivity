@@ -1,6 +1,6 @@
 银行能力
 
-# Banktivity (former iBank)
+# 银行活力（前 iBank）
 
 > 适用于 macOS/iOS 的主动资金管理应用程序
 > 财务赋权
