@@ -1,6 +1,6 @@
 المصرفية
 
-# Banktivity (former iBank)
+# Banktivity (iBank سابقًا)
 
 > تطبيق استباقي لإدارة الأموال لنظام التشغيل macOS/iOS
 > متمكن ماليا
