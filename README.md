@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+banktivity
+# Banktivity
 
-Based on "ABC" at https://www.abc.com/
+Based on "Banktivity" at https://www.banktivity.com/
 
 ## 100 - Introduction
 
