@@ -12,3 +12,10 @@ ___
 Dear reader, I am a happy user of Banktivity (a financial admin app on OSX) that uses the Yodlee service (yodlee.com) as the provider for direct access and download of transaction information. In the Netherlands several banks (ING, ABNAMRO etc) are connected. 
 
 Source: https://together.bunq.com/d/7379-yodlee-connectivity
+___
+
+Adding the link to Banktivity. https://www.iggsoftware.com/banktivity/
+Direct Access: This powerful, optional subscription service automatically updates accounts from over 10,000 banks and financial institutions worldwide - all for as little as 11 cents a day. Update all your devices with one subscription.
+What Banktivity calls "Direct Access", in the background is Yodlee. Works like a charm for me.
+
+Source: https://together.bunq.com/d/7379-yodlee-connectivity
