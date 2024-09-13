@@ -8,6 +8,8 @@
 
 पर "बैंकटिविटी" पर आधारित<https://www.banktivity.com/>
 
+Based on "Banktivity Cloud Sync" at <https://www.banktivity.com/cloud-sync/>
+
 ## 100 - परिचय
 
 देखना[README.md](./100/README.md)
@@ -22,4 +24,4 @@
 
 ## 400 - निष्कर्ष
 
-See [README.md](./400/README.md)
+देखना[README.md](./400/README.md)
