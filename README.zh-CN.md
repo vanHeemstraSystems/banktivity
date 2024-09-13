@@ -1,10 +1,10 @@
 银行能力
 
-# 银行活力（前 iBank）
+# Banktivity (former iBank)
 
-> 适用于 macOS/iOS 的主动资金管理应用程序
-> 财务赋权
-> 隐私保护
+> Proactive money management app for macOS/iOS
+> Financially empowered
+> Privacy protected
 
 基于“银行活动”<https://www.banktivity.com/>
 
@@ -22,8 +22,8 @@
 
 ## 300 - 构建我们的应用程序
 
-看[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
-## 400 - 结论
+## 400 - Conclusion
 
 看[README.md](./400/README.md)
