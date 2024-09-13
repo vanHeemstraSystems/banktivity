@@ -19,3 +19,8 @@ Direct Access: This powerful, optional subscription service automatically update
 What Banktivity calls "Direct Access", in the background is Yodlee. Works like a charm for me.
 
 Source: https://together.bunq.com/d/7379-yodlee-connectivity
+___
+
+
+
+Source: https://cdn2.hubspot.net/hubfs/344772/Yodlee-integrations.pdf?t=1464354764247
