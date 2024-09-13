@@ -1,6 +1,6 @@
 银行能力
 
-# 银行活力
+# 银行活力（前 iBank）
 
 > 适用于 macOS/iOS 的主动资金管理应用程序
 > 财务赋权
@@ -8,7 +8,9 @@
 
 基于“银行活动”<https://www.banktivity.com/>
 
-Based on "Banktivity Cloud Sync" at <https://www.banktivity.com/cloud-sync/>
+基于“Banktivity Cloud Sync”，位于<https://www.banktivity.com/cloud-sync/>
+
+基于“YouTube 上的Banktivity”：<https://www.youtube.com/user/iggsoftware/videos>
 
 ## 100 - 简介
 
