@@ -1,18 +1,18 @@
-बैंकटिविटी
+banktivity
 
 # बैंकटिविटी (पूर्व आईबैंक)
 
-> MacOS/iOS के लिए प्रोएक्टिव मनी मैनेजमेंट ऐप
-> आर्थिक रूप से सशक्त
-> गोपनीयता सुरक्षित
+> Proactive money management app for macOS/iOS
+> Financially empowered
+> Privacy protected
 
 पर "बैंकटिविटी" पर आधारित<https://www.banktivity.com/>
 
-"बैंकटिविटी क्लाउड सिंक" पर आधारित<https://www.banktivity.com/cloud-sync/>
+Based on "Banktivity Cloud Sync" at <https://www.banktivity.com/cloud-sync/>
 
 "यूट्यूब पर बैंकटिविटी" पर आधारित<https://www.youtube.com/user/iggsoftware/videos>
 
-## 100 - परिचय
+## 100 - Introduction
 
 देखना[README.md](./100/README.md)
 
