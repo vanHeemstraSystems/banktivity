@@ -1,6 +1,6 @@
 銀行能力
 
-# Banktivity (former iBank)
+# 銀行活力（前 iBank）
 
 > 適用於 macOS/iOS 的主動資金管理應用程式
 > 財務賦權
@@ -20,7 +20,7 @@
 
 看[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - 建立我們的應用程式
 
 看[README.md](./300/README.md)
 
