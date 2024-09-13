@@ -1,6 +1,6 @@
 # 300 - Building Our Application
 
-## 100 - Banktivity Master Class Session 1: General Terms
+## 100 - Banktivity Master Class Session 1: Financial Terms
 
 See "Banktivity Master Class Session 1" at https://www.youtube.com/watch?v=4ihl4roYbwo
 
