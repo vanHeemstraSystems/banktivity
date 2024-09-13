@@ -1,16 +1,16 @@
-nom du référentiel
+banktivité
 
-# Nom du référentiel
+# Bankivité
 
-Basé sur "ABC" à<https://www.abc.com/>
+Basé sur "Banktivity" à<https://www.banktivity.com/>
 
-## 100 - Introduction
+## 100 - Présentation
 
 Voir[README.md](./100/README.md)
 
 ## 200 - Exigences
 
-Voir[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - Construire notre application
 
