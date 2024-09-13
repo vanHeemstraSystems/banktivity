@@ -2,11 +2,13 @@ banktivité
 
 # Bankivité
 
-> Application de gestion financière proactive pour macOS/iOS
+> Application de gestion proactive de l'argent pour macOS/iOS
 > Autonomisé financièrement
 > Confidentialité protégée
 
 Basé sur "Banktivity" à<https://www.banktivity.com/>
+
+Basé sur "Banktivity Cloud Sync" sur<https://www.banktivity.com/cloud-sync/>
 
 ## 100 - Introduction
 
