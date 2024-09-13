@@ -8,6 +8,8 @@
 
 基于“银行活动”<https://www.banktivity.com/>
 
+Based on "Banktivity Cloud Sync" at <https://www.banktivity.com/cloud-sync/>
+
 ## 100 - 简介
 
 看[README.md](./100/README.md)
