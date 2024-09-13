@@ -1,8 +1,8 @@
-اسم المستودع
+المصرفية
 
-# اسم المستودع
+# المصرفية
 
-استنادا إلى "ABC" في<https://www.abc.com/>
+بناء على "Banktivity" في<https://www.banktivity.com/>
 
 ## 100- مقدمة
 
@@ -18,4 +18,4 @@
 
 ## 400 - الخاتمة
 
-See [README.md](./400/README.md)
+يرى[README.md](./400/README.md)
