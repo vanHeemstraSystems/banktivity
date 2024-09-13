@@ -7,3 +7,8 @@ If your bank(s) are not covered by direct download, then you can pay a yearly fe
 That's how I do it, but I got banktivity as part of some package deal, so I tried it out. It's a fine app in it's own right, for managing finances, but I like having a vcs repo of all of my transaction information as well :)
 
 Source: https://www.reddit.com/r/plaintextaccounting/comments/fytyhp/how_do_you_automate_downloading_bank_details/
+___
+
+Dear reader, I am a happy user of Banktivity (a financial admin app on OSX) that uses the Yodlee service (yodlee.com) as the provider for direct access and download of transaction information. In the Netherlands several banks (ING, ABNAMRO etc) are connected. 
+
+Source: https://together.bunq.com/d/7379-yodlee-connectivity
