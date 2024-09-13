@@ -4,7 +4,7 @@
 
 > تطبيق استباقي لإدارة الأموال لنظام التشغيل macOS/iOS<br/>متمكن ماليا<br/>الخصوصية محمية<br/>
 
-بناء على "Banktivity" في<https://www.banktivity.com/>
+Based on "Banktivity" at <https://www.banktivity.com/>
 
 بناءً على "Banktivity Cloud Sync" في<https://www.banktivity.com/cloud-sync/>
 
@@ -12,11 +12,11 @@
 
 ## 100- مقدمة
 
-يرى[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
-يرى[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 – بناء تطبيقنا
 
