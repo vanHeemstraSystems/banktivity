@@ -1,5 +1,5 @@
 banktivity
-# Banktivity
+# Banktivity (former iBank)
 
 > Proactive money management app for macOS/iOS
 > Financially empowered
@@ -8,6 +8,8 @@ banktivity
 Based on "Banktivity" at https://www.banktivity.com/
 
 Based on "Banktivity Cloud Sync" at https://www.banktivity.com/cloud-sync/
+
+Based on "Banktivity on YouTube" at https://www.youtube.com/user/iggsoftware/videos
 
 ## 100 - Introduction
 
